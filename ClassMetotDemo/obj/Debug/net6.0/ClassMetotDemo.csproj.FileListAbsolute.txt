@@ -1,0 +1,15 @@
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.exe
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.deps.json
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.runtimeconfig.json
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.dll
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Debug\net6.0\ClassMetotDemo.pdb
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.dll
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\refint\ClassMetotDemo.dll
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.pdb
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ClassMetotDemo.genruntimeconfig.cache
+C:\Users\Mr.Whiskered\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Debug\net6.0\ref\ClassMetotDemo.dll
